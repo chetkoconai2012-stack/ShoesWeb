@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max Pulse",
+    "brand": "Nike",
+    "price": 150,
+    "oldPrice": 180,
+    "badge": "SALE",
+    "badgeClass": "sale-badge",
+    "rating": 4.8,
+    "reviews": 124,
+    "image": "https://authentic-shoes.com/wp-content/uploads/2024/01/Giay-Nike-Air-Max-Pulse-White-FD6409%E2%80%91101-1.png",
+    "colors": ["#ff4757", "#2e3192", "#ffffff"],
+    "sizes": [39, 40, 41, 42, 43],
+    "desc": "Được trang bị hệ thống đệm Air thế hệ mới, Nike Air Max Pulse mang lại cảm giác êm ái vượt trội cùng thiết kế đậm chất đường phố."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost Light",
+    "brand": "Adidas",
+    "price": 190,
+    "badge": "NEW",
+    "badgeClass": "new-badge",
+    "rating": 4.9,
+    "reviews": 85,
+    "image": "https://product.hstatic.net/1000361048/product/44009be938ebcf37fcdd0b5243fe9ba6_f29fdb118d4b44a3a0a4f1146f523592_master.jpg",
+    "colors": ["#ffffff", "#000000", "#888888"],
+    "sizes": [40, 41, 42, 43, 44],
+    "desc": "Dòng sản phẩm chạy bộ huyền thoại với công nghệ đệm Boost nhẹ hơn 30%, tối ưu hóa khả năng hoàn trả năng lượng trên mỗi bước chạy."
+  },
+  {
+    "id": 3,
+    "name": "Puma RS-X Efekt Turbo",
+    "brand": "Puma",
+    "price": 120,
+    "oldPrice": 140,
+    "badge": "TRENDING",
+    "badgeClass": "sale-badge",
+    "rating": 4.6,
+    "reviews": 62,
+    "image": "https://cdn.vuahanghieu.com/unsafe/0x900/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/product/2023/05/giay-the-thao-puma-rs-x-efekt-turbo-39004801-phoi-mau-646b083f41414-22052023131423.jpg",
+    "colors": ["#e8ff47", "#111111", "#ff4757"],
+    "sizes": [38, 39, 40, 41, 42],
+    "desc": "Sự kết hợp hoàn hảo giữa phong cách tương lai và hơi hướng cổ điển, mang lại cá tính mạnh mẽ cho người mặc."
+  },
+  {
+    "id": 4,
+    "name": "Asics Gel-Kayano 30",
+    "brand": "Asics",
+    "price": 160,
+    "rating": 4.7,
+    "reviews": 95,
+    "image": "https://www.jordan1.vn/wp-content/uploads/2023/09/1012b505_002_sr_rt_glb_0aa0376855c4483794e212b8b9ca14ba.png",
+    "colors": ["#2e3192", "#ffffff"],
+    "sizes": [41, 42, 43, 44],
+    "desc": "Công nghệ 4D Guidance System đem lại sự ổn định tuyệt đối và lớp đệm FF BLAST™ PLUS ECO cho trải nghiệm êm ái đỉnh cao."
+  }
+]
